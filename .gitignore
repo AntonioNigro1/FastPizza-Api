@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/build
+/coverage
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+uploads/55e31c82-cf65-420c-a2b7-04013137d7a2.png
